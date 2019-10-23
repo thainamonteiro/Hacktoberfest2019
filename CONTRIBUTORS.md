@@ -421,4 +421,10 @@
 - Location: Rio de Janeiro, Brasil
 - Bio: 💻 JAVA Developer
 - Github: https://github.com/thainamonteiro
+
+### Danilo Polastri
+- Photo: 
+- Location: Rio de Janeiro, Brasil
+- Bio: 💻 JAVA Developer
+- Github: https://github.com/DaniloPolastri
 ***
